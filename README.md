@@ -1,4 +1,4 @@
-# DT1 2023 : Enabling Technologies, Assignment 1
+# DT1 2024 : Enabling Technologies, Assignment 1
 
 The assignment description and requirements are on Moodle.
 
